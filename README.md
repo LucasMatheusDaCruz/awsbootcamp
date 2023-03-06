@@ -7,7 +7,7 @@
 # AWS Lambda
 
 
-#Integração de Amazon Cognito, AWS Lambda e DynamoDB
+Integração de Amazon Cognito, AWS Lambda e DynamoDB
 Este projeto é um exemplo de como integrar as ferramentas Amazon Cognito, AWS Lambda e DynamoDB para criar um sistema de registro e autenticação de usuários, permitindo o acesso a endpoints de API autorizados e a realização de operações de CRUD em um banco de dados NoSQL.
 
 Configuração

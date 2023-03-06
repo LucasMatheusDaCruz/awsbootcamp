@@ -1,6 +1,10 @@
 # Desafio adicionando segurança em APIs na AWS com Amazon Cognito
 # Serviços AWS utilizados
 
+#Link com o vídeo do desafio completo = https://youtu.be/dzVp0_7GT-A
+
+https://youtu.be/dzVp0_7GT-A
+
 # Amazon Cognito
 # Amazon DynamoDB
 # Amazon API Gateway

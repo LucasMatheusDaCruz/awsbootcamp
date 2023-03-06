@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "EC2",
+        "price": 99.99
+    },
+    {
+        "id": "2",
+        "name": "S3",
+        "price": 55.50
+    },
+    {
+        "id": "3",
+        "name": "Lambda",
+        "price": 123.45
+    },
+    {
+        "id": "4",
+        "name": "Cognito",
+        "price": 111
+    },
+    {
+        "id": "5",
+        "name": "DynamoDB",
+        "price": 75.25
+    },
+    {
+        "id": "6",
+        "name": "API Gateway",
+        "price": 150
+    },
+    {
+        "id": "7",
+        "name": "CloudFront",
+        "price": 20.99
+    },
+    {
+        "id": "8",
+        "name": "RDS",
+        "price": 200.75
+    }
+]

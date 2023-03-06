@@ -11,7 +11,7 @@ exports.handler = async (event) => {
     let responseBody = ""
     let statusCode = 0
     
-    // Extrai o id e o price do corpo da requisição
+    // Extrai o id, name e o price do corpo da requisição
     let {id, name, price} = JSON.parse(event.body);
     
     // Define as propriedades do item a ser inserido no DynamoDB
